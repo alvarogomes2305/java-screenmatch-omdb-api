@@ -24,7 +24,6 @@ A aplicação realiza consultas na **API OMDb**, permitindo buscar informações
 
 <img src="imagens/TestePrincipalComLista.png" width="800"/>
 
-> **Obs.:** As imagens acima devem ser adicionadas na pasta `images` do repositório.
 
 ---
 
