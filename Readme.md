@@ -163,7 +163,7 @@ Foi uma excelente oportunidade para compreender como aplicações reais consomem
 
 # 👨‍💻 Autor
 
-**Álvaro**
+**Álvaro Gomes**
 
 🔗 LinkedIn:
 
