@@ -10,19 +10,19 @@ A aplicação realiza consultas na **API OMDb**, permitindo buscar informações
 
 ### Estrutura do projeto
 
-<img src="imagens/EstruturaDoProjeto.png" width="800"/>
+<img src="Imagens/EstruturaDoProjeto.png" width="800"/>
 
 ### Busca de filmes
 
-<img src="imagens/TestePrincipal.png" width="800"/>
+<img src="Imagens/TestePrincipal.png" width="800"/>
 
 ### Resultado da busca
 
-<img src="imagens/TestePrincipalComBusca.png" width="800"/>
+<img src="Imagens/TestePrincipalComBusca.png" width="800"/>
 
 ### Manipulação de listas
 
-<img src="imagens/TestePrincipalComLista.png" width="800"/>
+<img src="Imagens/TestePrincipalComLista.png" width="800"/>
 
 
 ---
